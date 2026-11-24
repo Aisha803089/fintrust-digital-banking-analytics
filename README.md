@@ -78,6 +78,6 @@ The Power BI dashboard presents the following KPIs:
 
 ## Author
 
-**Muhammed Aishat Jaga**  
+**Aishat Muhammed Jaga**  
 Aspiring Data Analyst  
 Skills: Excel | MySQL | Power BI
